@@ -1,1 +1,1 @@
--Run "./parts" $USING$ "**requirements.esc"
+-Run every i in "./parts" $USING$ "**requirements.esc" $ADD$ "SimpleSelfAwareness"
